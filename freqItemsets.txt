@@ -1,0 +1,2 @@
+Photography,Crafts,2
+Photography,Publishing,2
